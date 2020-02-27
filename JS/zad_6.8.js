@@ -1,5 +1,5 @@
 let fill = 0;
-$(document).ready();
+$(document).ready() ;
 
 function but1 () {
     if (fill < 100) fill ++;
